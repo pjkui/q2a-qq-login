@@ -22,7 +22,7 @@
 
 /*
 	Plugin Name: QQ Login
-	Plugin URI:
+	Plugin URI: https://github.com/pjkui/q2a-qq-login
 	Plugin Description: Allows users to log in via QQ
 	Plugin Version: 1.0.0
 	Plugin Date: 2016-03-18
