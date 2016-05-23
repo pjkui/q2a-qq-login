@@ -73,7 +73,7 @@ class qa_qq_login
         <style>
             .qq_login{
                 border: 0px;
-                float: left;
+                /*float: left;*/
                 margin: -3px 0px;
                 padding: 0 4px;
             }
